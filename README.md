@@ -1,6 +1,6 @@
 - 👋 Hi, I’m TraZe / @TraZeOG
 - 👀 I’m interested in machine learning and videogame development
-- 🌱 I’m currently learning: mostly Python, a bit of C, and C# with Unity
+- 🌱 I’m currently learning: mostly Python, a bit of C, HTML, CSS, Javascript and C# with Unity
 - 💞️ I’m looking to collaborate on my multiplayer platformer game
 - 📫 How to reach me: contact.traze@gmail.com
 - ⚡ Fun fact: no
