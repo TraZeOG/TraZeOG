@@ -7,7 +7,7 @@
   
 - 👀 I’m interested in machine learning and videogame development
   
-- ✨ Creating bugs since 2023
+- ✨ Creating bugs since May 2024
   
 - 💞️ I’m looking to collaborate on my multiplayer platformer game
 
