@@ -1,5 +1,5 @@
 ## Trophies 👀 :
-[![trophy](https://github-profile-trophy.vercel.app/?username=trazeog&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=trazeog&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ## Summary :
