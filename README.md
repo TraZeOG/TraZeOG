@@ -75,10 +75,11 @@
 
 <div align="center">
     <a href="https://spotify-github-profile.vercel.app/api/view?uid=l6cdcfb7s60nh5i40g44iknkm&redirect=true">
-        <img src="https://spotify-github-profile.vercel.app/api/view?uid=l6cdcfb7s60nh5i40g44iknkm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" alt="Profil Spotify" style="margin-right: 20px;">
+        <img src="https://spotify-github-profile.vercel.app/api/view?uid=l6cdcfb7s60nh5i40g44iknkm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" alt="Profil Spotify" width="300">
     </a>
-    <img height="400" src="https://media1.tenor.com/m/YyaZbloUzL8AAAAd/pedro-racoon.gif" alt="Animation">
+    <img height="300" src="https://media1.tenor.com/m/YyaZbloUzL8AAAAd/pedro-racoon.gif" alt="Animation">
 </div>
+
 
 
 ###
