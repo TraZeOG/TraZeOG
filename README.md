@@ -28,6 +28,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original.svg" height="40" alt="ocaml logo"  />
 </div>
 
 
@@ -53,18 +56,6 @@
 
 <br><br>
 
----
-
-<br>
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/TraZeOG/count.svg?"  />
-</div>
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=trazeog&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
-</p>
-
-
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=trazeog&show_icons=true&theme=vision-friendly-dark">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trazeog&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
@@ -73,12 +64,14 @@
 ---
 
 <div align="center">
-    <a href="https://data.typeracer.com/pit/profile?user=traze_&universe=lang_fr&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=traze_" border="0" alt="TypeRacer.com scorecard for user traze_"/></a>
-    <img height="300" src="https://media1.tenor.com/m/YyaZbloUzL8AAAAd/pedro-racoon.gif" alt="Animation">
+    <img height="300" src="https://media1.tenor.com/m/uzeW-qpykOQAAAAd/isha-arcane-isha.gif" alt="Animation">
+    <br><br>
+    <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=l6cdcfb7s60nh5i40g44iknkm&hide_recents=1&custom_title=Definition%20of%20good%20music%20taste">
+      <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=l6cdcfb7s60nh5i40g44iknkm&hide_recents=1&custom_title=Definition%20of%20good%20music%20taste" alt="Data Card for Spotify">
+    </a>
+    
 </div>
-
-
-
+<br>
 ###
 
 ## How to reach me 📫 :
