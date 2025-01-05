@@ -73,9 +73,7 @@
 ---
 
 <div align="center">
-    <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=l6cdcfb7s60nh5i40g44iknkm&redirect=true">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=l6cdcfb7s60nh5i40g44iknkm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Profil Spotify" width="300">
-    </a>
+    <a href="https://data.typeracer.com/pit/profile?user=traze_&universe=lang_fr&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=traze_" border="0" alt="TypeRacer.com scorecard for user traze_"/></a>
     <img height="300" src="https://media1.tenor.com/m/YyaZbloUzL8AAAAd/pedro-racoon.gif" alt="Animation">
 </div>
 
