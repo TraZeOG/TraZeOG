@@ -61,12 +61,7 @@
 ---
 
 <div align="center">
-    <img height="300" src="https://media1.tenor.com/m/uzeW-qpykOQAAAAd/isha-arcane-isha.gif" alt="Animation">
-    <br><br>
-    <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=l6cdcfb7s60nh5i40g44iknkm&hide_recents=1&custom_title=Definition%20of%20good%20music%20taste">
-      <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=l6cdcfb7s60nh5i40g44iknkm&hide_recents=1&custom_title=Definition%20of%20good%20music%20taste" alt="Data Card for Spotify">
-    </a>
-    
+    <img height="300" src="https://media1.tenor.com/m/uzeW-qpykOQAAAAd/isha-arcane-isha.gif" alt="Animation">    
 </div>
 <br>
 
