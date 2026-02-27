@@ -1,6 +1,10 @@
-## Trophies 🦋 :
-[![trophy](https://github-profile-trophy.vercel.app/?username=trazeog&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
-
+<br>
+ 
+ <div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Lilita+One&size=35&duration=3000&pause=1500&color=000000FF&width=435&lines=Greetings+from+Paris+!" alt="Typing SVG" />
+  </a>
+</div>
 
 ## Summary :
 - 👋 Ayo, TraZe here
@@ -52,16 +56,23 @@
   <img width="12" />
 </div>
 
-<br><br>
-
-<p align="center">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trazeog&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
-</p>
+<br>
 
 ---
 
+<br>
 <div align="center">
-    <img height="300" src="https://media1.tenor.com/m/uzeW-qpykOQAAAAd/isha-arcane-isha.gif" alt="Animation">    
+  <img src="https://streak-stats.demolab.com?user=trazeog&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+<br>
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=l6cdcfb7s60nh5i40g44iknkm&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=l6cdcfb7s60nh5i40g44iknkm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&bar_color=ffa34d&bar_color_cover=true">
+  </a>  
+</p>
+<br>
+<div align="center">
+    <img height="300" src="https://media1.tenor.com/m/uzeW-qpykOQAAAAd/isha-arcane-isha.gif" alt="GIF of Isha my love">    
 </div>
 <br>
 
@@ -69,4 +80,3 @@
 
 ## How to reach me 📫 :
 ###    >  contact.traze@gmail.com
-###    >  traze@mailfence.com
